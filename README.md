@@ -1,16 +1,20 @@
+# ⚠️ AI in RTC - 2019 Programming Challenge
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
 
-# 赛事简介
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
+## 赛事简介
 
 实时互联网，为实时互动而生。人们在互联网上完成的社交、娱乐、游戏、工作、学习、问诊、阅读、购物、打车、运动等等，都引入了实时互动多种场景。通过这个编程大赛，希望参赛选手能够尽情的发挥想象力，开发出更多有趣的应用。
 
-# 参赛资格
+## 参赛资格
 
 未受雇于Agora.io的人员。
 
-# 报名表单
+## 报名表单
 * [报名表单入口](https://www.huodongxing.com/event/8500759008100)
 
-# 作品要求
+## 作品要求
 
 * 使用Agora SDK开发一个网站或者移动应用，或在原创项目的基础上，通过 SDK 来增加实时音视频能力。
 
@@ -18,7 +22,7 @@
 
 * 如果应用中包含AI解决方案，还有额外的分数加成哦。
 
-# 比赛日程
+## 比赛日程
 
 * 7月1日线上比赛启动
 
@@ -28,7 +32,7 @@
 
 * 10月24日，RTC2019实时互联网大会现场，颁奖典礼
 
-# 怎么参与
+## 怎么参与
 * [填写报名表单](https://www.huodongxing.com/event/8500759008100)
 
 * 注册Agora开发者帐户 https://www.agora.io/cn/
@@ -48,7 +52,7 @@
 PS：提交作品时，本人作品文件夹内须包含源码、Readme文件（若有可执行文件更佳），Readme内容包括作品介绍（包括使用的sdk、应用场景）、团队介绍（包括联系方式）、编译指南等
 
 
-# 奖励
+## 奖励
 
 5只参赛队将进入最终决赛。主办方将负担参赛队（每队限2人）往返北京的差旅费用。
 
@@ -61,10 +65,10 @@ PS：提交作品时，本人作品文件夹内须包含源码、Readme文件（
 招聘绿色通道：提交作品，即可直接进入面试环节；作品优异者，直接发offer
 
 
-# 组队指南
+## 组队指南
 * [组队链接](https://github.com/AgoraIO-Community/AI-in-RTC_ProgrammingChallenge/wiki)
 
-# 相关资源：
+## 相关资源：
 * [Agora官网](https://www.agora.io/cn/)
 * [黑客松官网](https://webrtc.org.cn/ai-in-rtc/)
 * [Agora Demo & Readme 全集](https://rtcdeveloper.com/t/topic/12820)
@@ -73,5 +77,5 @@ PS：提交作品时，本人作品文件夹内须包含源码、Readme文件（
 * [SDK相关资料下载](https://docs.agora.io/cn/Agora%20Platform/downloads)
 
 
-# License
+## License
 All sample applications are licensed under the MIT License (MIT). View the license.
